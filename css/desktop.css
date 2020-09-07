@@ -1,0 +1,54 @@
+html{
+    background-size: contain;
+    /* background-position: center; */
+  }
+  header{
+    height: 10vh;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 3rem;
+  }
+  header >img{
+    width: 20rem;
+  }
+  .main{
+    height: 79.2vh;
+    /* display: inline-block; */
+  }
+  .main__hero{
+    height: 100%;
+  }
+  .main__hero img{
+    margin-top: 5rem;
+    width: 90%;
+    height: 90%;
+    align-self: center;
+    /* width: 400rem; */
+    max-width: none;
+    max-height: none;
+    /* height: 80vh; */ 
+  } 
+  .main__container h1{
+    font-size: 3rem;
+    padding-right: 20rem;
+    /* display: inline-block; */
+  }
+  .main__container p{
+    padding-right: 13rem;
+    color: #efefef;
+  }
+  .social-media{
+    margin: 0;
+    margin-right: 4rem;
+    height: 7.5vh;
+    padding-bottom: 0;
+  }
+  .main__container--button{
+    width: 15rem;
+    height: 4rem;
+    font-size: 1.5rem;
+  }
+  .attribution { 
+    height: 2.5vh;
+    margin: 0;
+  }
